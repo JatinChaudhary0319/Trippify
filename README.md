@@ -42,8 +42,7 @@ You can visit and have a look <a href="https://668927454212c38b39729462--fancy-s
 
 
 ## Home Page
-![screencapture-localhost-5174-2024-07-06-16_51_31](https://github.com/JatinChaudhary0319/Trippify/assets/137517499/73111b2b-b09c-410e-9c2d-dd4c86910c1d)
-<div align="right">
+![screencapture-668927454212c38b39729462-fancy-speculoos-23dcc7-netlify-app-2024-07-06-16_54_09](https://github.com/JatinChaudhary0319/Trippify/assets/137517499/8fb01e78-725f-4d97-83fb-f7beb0e4309f)
 <b><a href="#">↥ back to top</a></b>
 </div>
 
