@@ -35,7 +35,7 @@
 2. Start project using "npm run dev".
 
 ## About Project:
-Trippify is a place picker project which provides you suggestions in order to plan your next trip based on your current location.
+Trippify is a react + vite based place picker project which provides you suggestions in order to plan your next trip based on your current location.
 
 ## Live Demo Link:
 You can visit and have a look <a href="https://668927454212c38b39729462--fancy-speculoos-23dcc7.netlify.app/" target="_blank" rel="noopener noreferrer">here</a>.
