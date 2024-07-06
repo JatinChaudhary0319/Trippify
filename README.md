@@ -13,17 +13,17 @@
 						<span><strong>CSS</strong></span><br/>
 						<img height="64px" width="64px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png">
 					</td>
-          <td width="25%" align="center">
+          				<td width="25%" align="center">
+						<span><strong>JavaScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://openclipart.org/image/800px/272343">
+					</td>
+          				<td width="25%" align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fthumbs%2F584830f5cef1014c0b5e4aa1.png&f=1&nofb=1&ipt=dc5520644576d1d6d7ebd6177d55cb74f1bc3f08c85d690957c5876941cf4001&ipo=images">
 					</td>
-          <td width="25%" align="center">
+          				<td width="25%" align="center">
 						<span><strong>Vite</strong></span><br/>
 						<img height="64px" width="64px" src="https://logospng.org/wp-content/uploads/vite-js-logo.png">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>JavaScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://openclipart.org/image/800px/272343">
 					</td>
 				</tr>
 			</tbody>
