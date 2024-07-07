@@ -32,7 +32,9 @@
 
 ## Installation
 1. Download project from github.
-2. Start project using "npm run dev".
+2. Extract zip file yo your desired location.
+3. Open terminal and install all dependencies using "npm i".
+4. Start project using "npm run dev".
 
 ## About Project:
 Trippify is a react + vite based place picker project which provides you suggestions in order to plan your next trip based on your current location.
